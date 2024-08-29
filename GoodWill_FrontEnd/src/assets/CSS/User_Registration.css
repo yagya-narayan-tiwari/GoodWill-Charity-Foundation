@@ -1,0 +1,88 @@
+*{
+    font-family: var(--heading-font-family);
+
+}
+
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    --heading-color: #14C79F; /* Example color */
+    --secondry-bgColor: #1F2120;
+
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color : #018f70;
+    
+  }
+#signUpContainer{
+    width: 80%;
+    height: auto;
+    margin-inline:  auto;
+    border: 3px solid var(--secondry-bgColor);
+    border-radius: 20px;
+    margin-block: 6rem;
+}
+
+
+.loginHeading{
+    margin-bottom: 15px;
+   
+}
+.loginHeading h6{
+    margin-top: 1rem;
+   
+}
+
+#signUpBtn{
+    background-color: var(--heading-color);
+    padding: 9px 15px;
+    width: 60%;
+    margin-inline: auto;
+    border: none;
+    font-size: 1.1rem;
+    margin-bottom: 1rem ;
+}
+#signUpBtn:hover{
+    background-color: var(--hover-bg-color);
+   
+}
+#loginForm{
+    width: 70%;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.formLabel{
+    font-size: 15px;
+   font-weight: 500;
+   margin-top: 5px;
+}
+#logintxt{
+    color: var(--heading-color);
+   
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+
+#leftSignUpContainer{
+    background-color: var(--secondry-bgColor);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+#thanksMessage{
+    text-wrap: wrap;
+}
+#thanksMessage h3{
+    text-wrap: wrap;
+    color: var(--heading-color);
+    font-size: 2rem;
+    margin-bottom: .5rem;
+}
+#thanksMessage p{
+    color: rgb(197, 197, 197);
+    margin-top: 0.7rem;
+    font-size: 1rem;
+}

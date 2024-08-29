@@ -1,0 +1,94 @@
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --heading-color: #14C79F;
+    --secondry-bgColor: #1F2120;
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color: #018f70;
+}
+
+* {
+    font-family: var(--heading-font-family);
+}
+
+#teamCard {
+    border: 2px solid var(--secondry-bgColor);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: start;
+    height: 100%;
+    min-height: 400px; /* Set minimum height for consistency */
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    background-color: white;
+}
+
+#teamCard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+#teamImg {
+    width: 100%;
+    height: 200px; /* Set fixed height for images */
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
+
+#team-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+#name {
+    color: var(--heading-color);
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    flex-grow: 1;
+}
+
+#position {
+    font-size: 0.9rem;
+    color: var(--secondry-bgColor);
+    opacity: 0.8;
+    margin-top: 0.5rem;
+}
+
+#contactLinks {
+    margin-top: auto;
+}
+
+#contactLinks h6 {
+    margin-bottom: 0.5rem;
+    color: var(--heading-color);
+}
+
+#contactIcon {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+#contactIcon a {
+    font-size: 1.5rem;
+    color: var(--secondry-bgColor);
+    transition: color 0.2s ease-in;
+}
+
+#contactIcon a:hover {
+    color: var(--heading-color);
+}
+
+@media (max-width: 768px) {
+    #teamCard {
+        width: 100%;
+    }
+    
+    #contactIcon {
+        gap: 10px;
+    }
+}

@@ -1,0 +1,168 @@
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.Development.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.exe
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.deps.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.runtimeconfig.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.AssemblyReference.cache
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfoInputs.cache
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfo.cs
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.CoreCompileInputs.cache
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cs
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cache
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.GoodWillCharity_DotNet_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.build.GoodWillCharity_DotNet_API.props
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoodWillCharity_DotNet_API.props
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoodWillCharity_DotNet_API.props
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\scopedcss\bundle\GoodWillCharity_DotNet_API.styles.css
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWill.12BB8F95.Up2Date
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\refint\GoodWillCharity_DotNet_API.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.genruntimeconfig.cache
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\ref\GoodWillCharity_DotNet_API.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\DnsClient.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\SharpCompress.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Snappier.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\ZstdSharp.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\cdac\dot net\work\Final Project\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Razorpay.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.Development.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.exe
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.deps.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.runtimeconfig.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\DnsClient.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Razorpay.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\SharpCompress.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Snappier.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\ZstdSharp.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.AssemblyReference.cache
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfoInputs.cache
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfo.cs
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.CoreCompileInputs.cache
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cs
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cache
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.build.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.development.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.GoodWillCharity_DotNet_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.build.GoodWillCharity_DotNet_API.props
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoodWillCharity_DotNet_API.props
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoodWillCharity_DotNet_API.props
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\scopedcss\bundle\GoodWillCharity_DotNet_API.styles.css
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWill.12BB8F95.Up2Date
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\refint\GoodWillCharity_DotNet_API.dll
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.genruntimeconfig.cache
+E:\GoodWill_Major_Project\GoodWill_BackEnd\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\GoodWillCharity_DotNet_API\obj\Debug\net8.0\ref\GoodWillCharity_DotNet_API.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.Development.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\appsettings.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.exe
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.deps.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.runtimeconfig.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\DnsClient.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Razorpay.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\SharpCompress.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Snappier.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\ZstdSharp.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.AssemblyReference.cache
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfoInputs.cache
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.AssemblyInfo.cs
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.csproj.CoreCompileInputs.cache
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cs
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.MvcApplicationPartsAssemblyInfo.cache
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.build.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.development.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.GoodWillCharity_DotNet_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.build.GoodWillCharity_DotNet_API.props
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoodWillCharity_DotNet_API.props
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoodWillCharity_DotNet_API.props
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\scopedcss\bundle\GoodWillCharity_DotNet_API.styles.css
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWill.12BB8F95.Up2Date
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\refint\GoodWillCharity_DotNet_API.dll
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.pdb
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\GoodWillCharity_DotNet_API.genruntimeconfig.cache
+E:\GitUpload_MajorProject\GoodWill_DotNet_BackEnd\GoodWillCharity_DotNet_API\obj\Debug\net8.0\ref\GoodWillCharity_DotNet_API.dll

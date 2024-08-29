@@ -1,0 +1,53 @@
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    --heading-color: #14C79F; /* Example color */
+    --secondry-bgColor: #1F2120;
+
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color : #018f70;
+    
+  }
+  #CharityCard{
+    border: 3px solid var(--secondry-bgColor);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  flex-direction: column;
+  text-align: start;
+  height: 100%;
+    
+  }
+
+ #card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+
+
+
+  #card-body .charityName{
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: var(--heading-color);
+  }
+
+  #card-body .charityName, .missionText {
+    margin-bottom: 10px;
+  }
+  #card-body .missionText{
+        font-size: 1.2rem;
+        color: var(--secondry-bgColor);
+        font-weight: 600;
+        padding: 0.3rem 0;
+  }
+  #card-body .desc{
+    color: rgb(99, 99, 99);
+    flex-grow: 1;
+}
+
+#donate-button {
+    margin-top: auto;
+  }

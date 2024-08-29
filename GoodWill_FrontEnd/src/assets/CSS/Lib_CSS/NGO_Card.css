@@ -1,0 +1,83 @@
+/* styles.css */
+
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    --heading-color: #14C79F;
+    /* Example color */
+    --secondry-bgColor: #1F2120;
+
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color: #018f70;
+
+}
+
+* {
+    font-family: var(--heading-font-family);
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+#card{
+    border: 3px solid var(--secondry-bgColor);
+    border-radius: 12px;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 100%;
+}
+
+#title {
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+.address {
+    color: black;
+    font-size: 18px;
+}
+
+#addData {
+    color: rgb(45, 45, 45);
+    font-size: 16px;
+}
+
+#card_details {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+#desc {
+    color: rgb(39, 39, 39);
+    font-size: 17px;
+    opacity: 0.9;
+}
+
+#missionText {
+    color: var(--heading-color);
+    font-weight: 600;
+    margin-top: 2rem;
+}
+
+#exploreBtn {
+    background-color: var(--heading-color);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border: 2px solid var(--heading-color);
+    margin-top: 3rem;
+}
+#exploreBtn:hover{
+    background-color: var(--hover-bg-color);
+    border: 2px solid var(--hover-bg-color);
+   
+}

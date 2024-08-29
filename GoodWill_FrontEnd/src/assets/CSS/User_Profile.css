@@ -1,0 +1,158 @@
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    --heading-color: #14C79F; /* Example color */
+    --secondry-bgColor: #1F2120;
+
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color : #018f70;
+    
+  }
+
+  *{
+    font-family: var(--heading-font-family);
+  }
+
+  #mainContainer{
+    border: 2px solid var(--secondry-bgColor);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 0;
+
+  }
+
+  #profileLeftCon{
+    padding: 3rem 3rem;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 3rem;
+    background-color: var(--secondry-bgColor);
+    color: white;
+    
+
+  }
+  #profileLeftCon h5{
+   font-size: 1.2rem;
+
+  }
+  #profileLeftCon .imgContainer{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+
+  }
+  #profileLeftCon .imgContainer img{
+    width: 100%;
+
+  }
+ #userDetails{
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+ }
+ #userDetails h5{
+ font-size: 1.1rem;
+ color: var(--heading-color);
+ }
+ #userDetails span{
+ font-size: 1rem;
+ color: white;
+ margin-left: 1rem;
+ font-weight: 400;
+ }
+
+  #profileRightCon{
+    padding: 2rem;
+    position: relative; /* Ensure it's relative to its parent container */
+    top: 0; /* Align to the top of its parent container */
+    margin-top: 0; /* Ensure no margin is pushing it down */
+align-self: flex-start;
+  }
+
+  #ProfilebtnArea{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    /* flex-direction: column; */
+    gap: 1rem;
+    font-weight: 600;
+    font-size: 1rem;
+    
+  }
+   #updateBtn{
+    border: none;
+    padding: 8px 20px;
+    background-color: var(--heading-color);
+    color: white;
+    border-radius: 5px;
+    transition: all ease-in-out 0.2s;
+}
+#updateBtn:hover{
+    background-color: var(--hover-bg-color);
+}
+#VolunteerBtn{
+    border: none;
+    padding: 8px 20px;
+    background-color: var(--heading-color);
+    color: white;
+    border-radius: 5px;
+    margin-top: 1rem;
+    transition: all ease-in-out 0.2s;
+}
+#VolunteerBtn:hover{
+    background-color: var(--hover-bg-color);
+    
+}
+#DeleteBtn{
+    border: none;
+    transition: all ease-in-out 0.2s;
+    padding: 8px 20px;
+    border: 2px solid var(--heading-color);
+    color: var(--secondry-bgColor);
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+  }
+   #DeleteBtn:hover{
+    border: 2px solid var(--heading-color);
+    color: white;
+    background-color: var(--heading-color);
+  }
+  
+
+
+  #DonatePlz{
+    border: none;
+    padding: 8px 20px;
+    background-color: var(--heading-color);
+    color: white;
+    border-radius: 5px;
+    transition: all ease-in-out 0.2s;
+}
+#DonatePlz:hover{
+    background-color: var(--hover-bg-color);
+}
+
+
+#VolunteerDetails {
+    
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+}
+#VolunteerDetails h5{
+    
+    font-size: 1.1rem;
+    color: var(--heading-color);
+}
+#VolunteerDetails span{
+    font-size: 1rem;
+    color: white;
+    margin-left: 1rem;
+    font-weight: 400;
+}

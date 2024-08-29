@@ -1,0 +1,117 @@
+*{
+    font-family: var(--heading-font-family);
+
+}
+
+:root {
+    --heading-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    --heading-color: #14C79F; /* Example color */
+    --secondry-bgColor: #1F2120;
+
+    --secondary-text-color: rgb(172, 172, 172);
+    --hover-bg-color : #018f70;
+    
+  }
+#signUpContainer{
+    width: 80%;
+    height: auto;
+    margin-inline:  auto;
+    border: 3px solid var(--secondry-bgColor);
+    border-radius: 20px;
+    margin-block: 6rem;
+}
+
+
+.loginHeading{
+    margin-bottom: 15px;
+   
+}
+.loginHeading h6{
+    margin-top: 1rem;
+   
+}
+
+#DonateBtn1{
+    background-color: var(--heading-color);
+    padding: 9px 15px;
+    width: 60%;
+    margin-inline: auto;
+    border: none;
+    font-size: 1.1rem;
+    margin-bottom: 1rem ;
+}
+#DonateBtn1:hover{
+    background-color: var(--hover-bg-color);
+   
+}
+#loginForm{
+    width: 70%;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.formLabel{
+    font-size: 15px;
+   font-weight: 500;
+   margin-top: 5px;
+}
+#logintxt{
+    color: var(--heading-color);
+   
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+
+#leftSignUpContainer{
+    background-color: var(--secondry-bgColor);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+#thanksMessage{
+    text-wrap: wrap;
+}
+#thanksMessage h3{
+    text-wrap: wrap;
+    color: var(--heading-color);
+    font-size: 2rem;
+    margin-bottom: .5rem;
+}
+#thanksMessage p{
+    color: rgb(197, 197, 197);
+    margin-top: 0.7rem;
+    font-size: 1rem;
+}
+
+#DonationPageTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    text-align: center;
+}
+#DonationPageTitle h2{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: var(--heading-color);
+}
+#DonationPageTitle p{
+    font-size: 1.2rem;
+    color: var(--secondry-bgColor);
+    margin-top: .5rem;
+}
+
+/* // to change the color of select icons
+ */
+
+ /* input[type="checkbox"]:checked {
+    accent-color: red; /* Change the checkbox icon color to red when checked } */
+ 
+    #interest{
+        color: var(--secondry-bgColor);
+        font-weight: 600;
+    }
